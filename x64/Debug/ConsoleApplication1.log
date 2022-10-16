@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Stipe\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(96,33): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[150]'
+C:\Users\Stipe\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(96,26): warning C4024: 'StringToWords': different types for formal and actual parameter 2
+C:\Users\Stipe\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(96,42): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[150]'
+C:\Users\Stipe\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(96,35): warning C4024: 'StringToWords': different types for formal and actual parameter 3
+C:\Users\Stipe\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(96,51): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[150]'
+C:\Users\Stipe\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(96,44): warning C4024: 'StringToWords': different types for formal and actual parameter 4
+  ConsoleApplication1.vcxproj -> C:\Users\Stipe\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
