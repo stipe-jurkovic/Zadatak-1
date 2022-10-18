@@ -2,7 +2,7 @@ Ivan Maric 24
 
 Petar Marasovic 14
 
-Luka Ivandic 197
+Luka Ivandic 19
 
 
 Petar Lukic 22
@@ -12,4 +12,4 @@ Petar Lukic 22
 
 Ivana Ivandic 5
 
-Stipe Jurkovic 1000
+Stipe Jurkovic 30
